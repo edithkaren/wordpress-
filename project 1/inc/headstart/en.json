@@ -1,0 +1,34 @@
+{
+    "settings": {
+        "options": {
+            "show_on_front": "posts",
+            "featured-content": {
+                "tag-id": 35890,
+                "tag-name": "featured",
+                "hide-tag": 0,
+                "show-all": 1
+            },
+            "jetpack_global_styles": false
+        },
+        "theme_mods": {
+            "0": false,
+            "nav_menu_locations": [],
+            "custom_css_post_id": -1
+        },
+        "headstart": {
+            "mapped_id_options": [],
+            "mapped_id_theme_mods": [],
+            "keep_submenu_items": true
+        }
+    },
+    "widgets": [],
+    "content": [],
+    "menus": [],
+    "images": [],
+    "meta": {
+        "blog_id": 211865921,
+        "url": "https:\/\/blankcanvas3demo.wordpress.com",
+        "update_date": "October 31, 2022, 10:39 am",
+        "update_timestamp": 1667212789
+    }
+}
